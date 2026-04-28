@@ -9,7 +9,7 @@ Cliente e servidor HTTP com controle de timeout e persistência em SQLite.
 ### 1. Clonar o repositório
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/adlermo/fullcycle-client-server-api.git
 cd fullcycle-client-server-api
 ```
 
