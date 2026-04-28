@@ -65,13 +65,3 @@ Dólar: {valor}
 * API externa: 200ms
 * Banco de dados: 10ms
 * Cliente: 300ms
-
----
-
-## ⚠️ Observações
-
-* Projeto já possui `go.mod` (não precisa inicializar módulo)
-* Não use `go run .` (existem dois binários)
-* Banco SQLite usa driver pure Go (`modernc.org/sqlite`)
-
----
